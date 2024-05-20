@@ -1,1 +1,25 @@
-
+body {
+    background-color: rgba(13, 228, 174, 0.384);
+}
+h1{
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+h2{
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+a {
+    text-decoration:none;
+    color: black;
+}
+header{
+    background-color:rgb(64, 31, 155);
+}
+img scr{
+    width: 100px;
+    height: 120px;
+}
+footer {
+    background-color: yellow;
+}
